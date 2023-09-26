@@ -18,7 +18,8 @@ github_username: "k1w1sp4c3m"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+#theme: "minima"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 rss: rss
 
