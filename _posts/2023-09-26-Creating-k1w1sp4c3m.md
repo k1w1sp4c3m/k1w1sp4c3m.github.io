@@ -13,7 +13,7 @@ I enjoy other things than tech: building legos, playing games, piano, running, a
 ### GMAIL
 In order to create the k1w1sp4c3m accounts we first create a Gmail account, for simplicity's sake and because we do not mind Google's invasive nature in this activity that will be public anyway.
 Not much to mention here, it is pretty straighforward and most of us have already done this at least once.
-One tidbit is that passwords in Gmail are limited to 100 characters, which is lower than our standards using our trusty free password manager ([Bitwarden](https://bitwarden.com/)).
+One tidbit is that passwords in Gmail are limited to 100 characters, which is lower than our standards using our trusty free password manager ([Bitwarden](https://bitwarden.com/) - simply recommended, no affiliation).
 
 ### Github
 k1w1sp4c3m projects are hosted on Github, because what isn't? Including this blog which is a Github Page.
