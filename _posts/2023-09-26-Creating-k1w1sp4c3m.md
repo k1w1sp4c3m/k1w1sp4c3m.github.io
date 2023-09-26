@@ -26,7 +26,7 @@ k1w1sp4c3m projects are hosted on Github, because what isn't? Including this blo
 
 Github reduces password length to 72, how insecure! (Though it would still take billions of years with current (2023) hardware).
 
-Then we follow the step of [this article](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html) to make this page appear as my first article.
+Then we follow the step of [this article](https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html) to make this page appear as our first article.
 
 We have this nice result, so that's all for today, Thank you for reading and have a great & safe day!
 
