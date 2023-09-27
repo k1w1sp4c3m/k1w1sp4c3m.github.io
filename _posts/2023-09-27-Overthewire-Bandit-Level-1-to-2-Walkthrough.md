@@ -1,4 +1,4 @@
-## Overthewire Bandit Level 0 to 1 Walkthrough
+## Overthewire Bandit Level 1 to 2 Walkthrough
 ### Provided Instructions
 > The password for the next level is stored in a file called - located in the home directory.
 
