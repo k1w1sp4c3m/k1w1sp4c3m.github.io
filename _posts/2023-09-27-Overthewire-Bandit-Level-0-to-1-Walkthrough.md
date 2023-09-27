@@ -9,11 +9,17 @@ The objective of this level is to learn how to use SSH to connect to the OverThe
 
 SSH or [Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell) is protocol used to connect remotely (and securely) to another computer and execute commands on it.
 
-> To use SSH you need to be in a terminal, follow one of the instructions below depending on your operating system:
+To use SSH you need to be in a terminal, follow one of the instructions below depending on your operating system:
 > On Windows, press the Windows key and type "powershell" then enter to launch the PowerShell Terminal
+
 > On MacOS, press Cmd + Space and type "terminal" to launch the Terminal
+
 > On Linux, pres Alt + Shift + T to launch the Terminal
-> You are now ready to type and execute commands!
+
+You are now ready to type and execute commands, and should see your command prompt (below example is on Linux):
+```bash
+k1w1sp4c3m@p4r48377um:~$ 
+```
 
 We use the command ssh with the following syntax:
 
@@ -28,7 +34,7 @@ The host & port are provided on the instruction page: bandit.labs.overthewire.or
 Which gives us the following command:
 
 ```bash
-ssh bandit0@bandit.labs.overthewire.org -p 2220
+k1w1sp4c3m@p4r48377um:~$ ssh bandit0@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_
                         | '_ \ / _` | '_ \ / _` | | __|
@@ -45,7 +51,7 @@ bandit0@bandit.labs.overthewire.org's password:
 We press Enter to execute the command, we are greeted with a nice ASCII "bandit" and get prompted to enter the password for user 'bandit0' which is 'bandit0' as provided in the instructions.
 
 ```bash
-bandit0
+bandit0@bandit.labs.overthewire.org's password: bandit0
 ...
 HUGE INFORMATION BLOCK
 ...
@@ -68,13 +74,17 @@ We enter the password and get a HUGE INFORMATION BLOCK which we are encouraged t
   2. It provides our fellow tinkerers with some insight into what they are doing and can be used as pointers if they are blocked. We really believe that looking at a solution after trying ourselves for a while is beneficial for learning and unblocking the following levels to learn even more!
   
 </details>
+-
 
+We now have the command prompt for user 'bandit0' on the 'bandit' computer.
 
-Here we can run the 'ls' listing command to see the content of the directory, here only the ‘readme’ file. It is a good practice to use in all further levels to get the lay of the land before starting to solve the level.
+Here we can run the 'ls' listing command to see the content of the user's home directory. It is a good practice to use in all further levels to get the lay of the land before starting to solve the level.
 ```bash
 bandit0@bandit:~$ ls
 readme
 ```
+Only the ‘readme’ file is present. 
+
 Finally we use the 'cat' printing command to display the content of the ‘readme’ file and get the password.
 ```bash
 bandit0@bandit:~$ cat readme
