@@ -18,4 +18,4 @@ Here we list the levels with the link to their detailed Walkthroughs as well as 
 
 |Level|Concepts|
 |---|---|
-|[0](./link)|ssh|
+|[0](../../../2023/09/27/Overthewire-Bandit-Level-0-to-1-Walkthrough.html)|ssh|
