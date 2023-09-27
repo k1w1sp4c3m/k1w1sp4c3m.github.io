@@ -1,4 +1,4 @@
-## Bandit Wargame Walkthrough
+## Overthewire Bandit Wargame Walkthrough
 
 ### Context
 Our first « wargame » where we are trying to find a password in each level to reach the next one.
@@ -19,3 +19,4 @@ Here we list the levels with the link to their detailed Walkthroughs as well as 
 |Level|Concepts|
 |---|---|
 |[0](../../../2023/09/27/Overthewire-Bandit-Level-0-to-1-Walkthrough.html)|ssh|
+|[1](../../../2023/09/27/Overthewire-Bandit-Level-1-to-2-Walkthrough.html)|relative path|
