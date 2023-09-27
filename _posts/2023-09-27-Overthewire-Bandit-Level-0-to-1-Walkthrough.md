@@ -63,15 +63,7 @@ We enter the password and get a HUGE INFORMATION BLOCK which we are encouraged t
 <details>
   <summary>A small piece on why we post solution even though it is against the rules.</summary>
   
-  To be fair we have to mention the following part of the HUGE INFORMATION BLOCK and why we decided not to respect the last line of it:
-
-  >   * don't post passwords or spoilers
-  >   * again, DONT POST SPOILERS!
-  >     This includes writeups of your solution on your blog or website!
-  
-  This post and the 33 next ones will be in direct opposition with this as while we do not post passwords (they change regularly anyway), we do post solutions for 2 reasons:
-  1. It allows us to retain the knowledge a lot better
-  2. It provides our fellow tinkerers with some insight into what they are doing and can be used as pointers if they are blocked. We really believe that looking at a solution after trying ourselves for a while is beneficial for learning and unblocking the following levels to learn even more!
+  To be fair, we have to mention that we do not respect the "DONT POST SPOILERS! This includes writeups of your solution on your blog or website!" while we do not post passwords (they change regularly anyway), we do post solutions for 2 reasons: 1. It allows us to retain the knowledge a lot better and 2. It provides our fellow tinkerers with some insight into what they are doing and can be used as pointers if they are blocked. We really believe that looking at a solution after trying ourselves for a while is beneficial for learning and unblocking the following levels to learn even more!
   
 </details>
 -
