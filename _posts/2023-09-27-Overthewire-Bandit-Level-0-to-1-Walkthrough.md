@@ -1,6 +1,7 @@
 ## Overthewire Bandit Level 0 to 1 Walkthrough
 ### Provided Instructions
 > The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
+
 > The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
 
 ### Detailed Walkthrough
@@ -56,16 +57,18 @@ We enter the password and get a HUGE INFORMATION BLOCK which we are encouraged t
 <details>
   <summary>A small piece on why we post solution even though it is against the rules.</summary>
   
-To be fair we have to mention the following part of the HUGE INFORMATION BLOCK and why we decided not to respect the last line of it:
+  To be fair we have to mention the following part of the HUGE INFORMATION BLOCK and why we decided not to respect the last line of it:
 
->   * don't post passwords or spoilers
->   * again, DONT POST SPOILERS!
->     This includes writeups of your solution on your blog or website!
-
-This post and the 33 next ones will be in direct opposition with this as while we do not post passwords (they change regularly anyway), we do post solutions for 2 reasons:
-1. It allows us to retain the knowledge a lot better
-2. It provides our fellow tinkerers with some insight into what they are doing and can be used as pointers if they are blocked. We really believe that looking at a solution after trying ourselves for a while is beneficial for learning and unblocking the following levels to learn even more!
+  >   * don't post passwords or spoilers
+  >   * again, DONT POST SPOILERS!
+  >     This includes writeups of your solution on your blog or website!
+  
+  This post and the 33 next ones will be in direct opposition with this as while we do not post passwords (they change regularly anyway), we do post solutions for 2 reasons:
+  1. It allows us to retain the knowledge a lot better
+  2. It provides our fellow tinkerers with some insight into what they are doing and can be used as pointers if they are blocked. We really believe that looking at a solution after trying ourselves for a while is beneficial for learning and unblocking the following levels to learn even more!
+  
 </details>
+
 
 Here we can run the 'ls' listing command to see the content of the directory, here only the ‘readme’ file. It is a good practice to use in all further levels to get the lay of the land before starting to solve the level.
 ```bash
@@ -75,7 +78,7 @@ readme
 Finally we use the 'cat' printing command to display the content of the ‘readme’ file and get the password.
 ```bash
 bandit0@bandit:~$ cat readme
->{k1w1sp4c3m_3r4s3d_p455w0rd}<
+>{r3d4ct3d_b4nd1t0_p455w0rd}<
 ```
 
 Congratulations to ourselves for beating the first level!
