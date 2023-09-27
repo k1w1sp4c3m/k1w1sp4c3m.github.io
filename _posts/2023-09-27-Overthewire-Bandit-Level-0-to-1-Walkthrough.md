@@ -10,11 +10,9 @@ The objective of this level is to learn how to use SSH to connect to the OverThe
 SSH or [Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell) is protocol used to connect remotely (and securely) to another computer and execute commands on it.
 
 To use SSH you need to be in a terminal, follow one of the instructions below depending on your operating system:
-> On Windows, press the Windows key and type "powershell" then enter to launch the PowerShell Terminal
-
-> On MacOS, press Cmd + Space and type "terminal" to launch the Terminal
-
-> On Linux, pres Alt + Shift + T to launch the Terminal
+- On Windows, press the Windows key and type "powershell" then enter to launch the PowerShell Terminal
+- On MacOS, press Cmd + Space and type "terminal" to launch the Terminal
+- On Linux, pres Alt + Shift + T to launch the Terminal
 
 You are now ready to type and execute commands, and should see your command prompt (below example is on Linux):
 ```bash
@@ -61,7 +59,7 @@ bandit0@bandit:~$
 We enter the password and get a HUGE INFORMATION BLOCK which we are encouraged to read.
 
 <details>
-  <summary>A small piece on why we post solution even though it is against the rules.</summary>
+  <summary>A small piece on why we post solutions even though it is against the rules.</summary>
   
   To be fair, we have to mention that we do not respect the "DONT POST SPOILERS! This includes writeups of your solution on your blog or website!" while we do not post passwords (they change regularly anyway), we do post solutions for 2 reasons: 1. It allows us to retain the knowledge a lot better and 2. It provides our fellow tinkerers with some insight into what they are doing and can be used as pointers if they are blocked. We really believe that looking at a solution after trying ourselves for a while is beneficial for learning and unblocking the following levels to learn even more!
   
