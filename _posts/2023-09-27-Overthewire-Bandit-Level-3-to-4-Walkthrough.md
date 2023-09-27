@@ -57,4 +57,4 @@ Congratulations to ourselves for beating the third level! One more step towards 
 
 Thank you for reading and have a great & safe day!
 
-For our navigation convenience: [Previous Post (Level 1)](../../../2023/09/27/Overthewire-Bandit-Level-2-to-3-Walkthrough.html) - [Next Post (Level 3)](../../../2023/09/27/Coming-Soon.html)
+For our navigation convenience: [Previous Post (Level 2)](../../../2023/09/27/Overthewire-Bandit-Level-2-to-3-Walkthrough.html) - [Next Post (Level 4)](../../../2023/09/27/Coming-Soon.html)
