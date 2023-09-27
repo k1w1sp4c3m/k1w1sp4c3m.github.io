@@ -15,4 +15,4 @@ Here we will list the Wargames we have played along with the link to the main Ar
 
 |Wargame|Levels covered|Percentage|
 |---|---|---|
-|[Bandit](./link)|0/
+|[Bandit](../../../Overthewire-Bandit-Wargame-Walkthrough.html)|0/34|0%|
