@@ -78,9 +78,11 @@ Only the ‘readme’ file is present.
 Finally we use the 'cat' printing command to display the content of the ‘readme’ file and get the password.
 ```bash
 bandit0@bandit:~$ cat readme
->{r3d4ct3d_b4nd1t0_p455w0rd}<
+>{r3d4ct3d_b4nd1t1_p455w0rd}<
 ```
 
-Congratulations to ourselves for beating the first level!
+Congratulations to ourselves for beating the first level! One more step towards our destination!
 
-For our navigation convenience: [Previous Post (Introduction)](../../../2023/09/26/Overthewire-Bandit-Wargame-Walkthrough.html) - [Next Post (Level1)](../../../2023/09/27/Coming-Soon.html)
+Thank you for reading and have a great & safe day!
+
+For our navigation convenience: [Previous Post (Introduction)](../../../2023/09/26/Overthewire-Bandit-Wargame-Walkthrough.html) - [Next Post (Level 1)](../../../2023/09/27/Overthewire-Bandit-Level-1-to-2-Walkthrough.html)
