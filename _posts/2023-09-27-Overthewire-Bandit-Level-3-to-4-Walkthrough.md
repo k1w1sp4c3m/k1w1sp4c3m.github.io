@@ -20,11 +20,12 @@ inhere
 
 We see the 'inhere' directory mentionned in the instruction.
 
-We can 'move' into this directory using the 'cd' (change directory) command followed by the name of the folder 'inhere'.
+We can move into this directory using the 'cd' (change directory) command followed by the name of the folder 'inhere'.
 ```bash
 bandit3@bandit:~$ cd inhere/
 bandit3@bandit:~/inhere$
 ```
+Notice that the prompt changes with our new location!
 
 The gist of this level is how to find the hidden file, which we can do using ‘ls’:
 ```bash
