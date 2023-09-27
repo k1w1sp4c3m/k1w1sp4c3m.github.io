@@ -35,4 +35,4 @@ Congratulations to ourselves for beating the second level! One more step towards
 
 Thank you for reading and have a great & safe day!
 
-For our navigation convenience: [Previous Post (Level 1)](../../../2023/09/27/Overthewire-Bandit-Level-0-to-1-Walkthrough.html) - [Next Post (Level1)](../../../2023/09/27/Coming-Soon.html)
+For our navigation convenience: [Previous Post (Level 0)](../../../2023/09/27/Overthewire-Bandit-Level-0-to-1-Walkthrough.html) - [Next Post (Level 2)](../../../2023/09/27/Overthewire-Bandit-Level-2-to-3-Walkthrough.html)
