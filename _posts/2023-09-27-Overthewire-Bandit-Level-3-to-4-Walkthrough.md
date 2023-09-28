@@ -10,7 +10,7 @@ k1w1sp4c3m@p4r48377um:~$ ssh bandit3@bandit.labs.overthewire.org -p 2220
 bandit3@bandit:~$
 ```
 
-We use our trusty SSH command with username to ‘bandit3’, and provide the password found in the [previous level](../../../2023/09/27/Overthewire-Bandit-Level-1-to-2-Walkthrough.html), which you can get by playing it yourself!
+We use our trusty SSH command with username to ‘bandit3’, and provide the password found in the [previous level](../../../2023/09/27/Overthewire-Bandit-Level-2-to-3-Walkthrough.html), which you can get by playing it yourself!
 
 As usual we use 'ls' to list the content of the home directory:
 ```bash
