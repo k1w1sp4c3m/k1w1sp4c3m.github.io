@@ -19,9 +19,9 @@ inhere
 ```
 We see the 'inhere' directory mentionned in the instruction.
 
-We are looking for a human readable file in the ‘inhere’ directory.
+We are looking for a human readable file in the this directory.
 
-First let’s list the files with a ‘ls -l inhere’, the ‘-l’ parameter will display a list with line returns and some info such as permission instead of files on a single line.
+First let’s list the files with a ‘ls -l inhere/’, the ‘-l’ parameter will display a list with line returns and some info such as permission instead of files on a single line.
 
 ```bash
 bandit4@bandit:~$ ls -l inhere/
@@ -70,7 +70,7 @@ bandit4@bandit:~$ cat inhere/-file07
 >{r3d4ct3d_b4nd1t5_p455w0rd}<
 ```
 
-Remark: if we chose to move to the folder, the level can be solved as followed:
+Remark: if we chose to move to the folder, the level can be solved as follows:
 ```bash
 bandit4@bandit:~$ cd inhere/
 bandit4@bandit:~/inhere$ ls -l
