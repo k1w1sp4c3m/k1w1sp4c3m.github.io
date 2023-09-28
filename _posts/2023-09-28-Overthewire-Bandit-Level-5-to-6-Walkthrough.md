@@ -18,6 +18,8 @@ We use our trusty SSH command with username to ‘bandit5’, and provide the pa
 
 We are presented with a hierarchy of subdirectories each containing several files, so instead of our usual 'ls -l', we will use the 'ls -lR', the '-R' parameters does a recursive listing of the folders.
 > We could use the 'tree' command that has a much prettier output, but it is not installed on the 'bandit' machine and we do not have the rights to install it.
+>
+
 ```bash
 bandit5@bandit:~$ ls -lR
 .:
